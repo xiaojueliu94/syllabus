@@ -1,7 +1,7 @@
 # Core Methods in Educational Data Mining: Syllabus 
 
 Introduction class-hahahaha
-
+=====dfsffbhih
 * **Course:** [HUDK 4050, Teachers College, Columbia](http://www.columbia.edu/~rsb2162/EDM2015/index.html)
 * **Instructor:** Charles Lang, [charles.lang@tc.columbia.edu](lang2@tc.columbia.edu), Twitter: @learng00d
 * **Course Assistants:** Anna Lizarov, [al38684@tc.columbia.edu](al3868@tc.columbia.edu), Aidi Bian, [ab4499@tc.columbia.edu](ab4499@tc.columbia.edu)
